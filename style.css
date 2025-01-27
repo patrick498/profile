@@ -19,7 +19,7 @@ div {
 }
 
 .container {
-  margin: 10px;
+  margin: 0 auto;
 }
 
 @media (min-width: 960px) {
@@ -116,6 +116,7 @@ a:hover {
   background: white;
   padding: 30px;
   border: 1px solid lightgrey;
+  margin: 10px;
 }
 
 .img-circle {
