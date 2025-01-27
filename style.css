@@ -13,6 +13,10 @@ body {
   line-height: normal;
 }
 
+div {
+  margin: 0 auto;
+}
+
 .container {
   margin: 0 auto;
 }
@@ -39,11 +43,6 @@ body {
   .container {
     width: 250px;
   }
-}
-
-
-div {
-  margin-bottom: 20px;
 }
 
 h1,
